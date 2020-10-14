@@ -96,5 +96,13 @@
 
 }
 
-}]
+}],
+"vendors":[ "Target", "Source"],
+"vendorssource":[ "Target.com", "Source.com"],
+"sourcereason":[ "Excessive Inventory", "Minimal Inventory"],
+"status":["Available","Not Available"],
+"approver":["Jack Doe","Jill Kennedy"],
+"resolution":["low","medium","high"],
+"dealname":["deal1","deal2","deal3"],
+"dealproxy":["dealproxy1","dealproxy2","dealproxy3"]
 }
